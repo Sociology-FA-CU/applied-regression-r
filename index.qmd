@@ -1,0 +1,11 @@
+## Sylabus
+
+The goal of this course is to introduce students to linear regression analysis with an emphasis on application in the programming language R. The focus is primarily on conceptual understanding of statistical modeling, intuitive interpretation/visualization of results, and evaluation of the quality of the analysis. The first half of the course introduces tools for creating and interpreting regression models. In the second half of the course, we will discuss what the assumptions of linear regression do, their purpose, and what to do when our models fail to meet them. In addition to learning current best practices, we'll also discuss common mistakes and how to avoid them.\
+\
+Graduates of the course will be able to perform statistical analysis using linear regression from start to finish - from variable selection, to building and checking models, to their visualization and interpretation. Above all, they will gain the knowledge necessary to support the decisions they make in statistical data analysis. Not only will they be able to defend the conclusions of their analyses to their audience, but they will (hopefully) increase their confidence in their own analytical abilities.\
+\
+The course assumes a basic understanding of statistics (mean, standard deviations, p valuesa) and the R programming language (data processing and visualization).
+
+## Contact
+
+Aleš Vomáčka ([vomackaa\@ff.cuni.cz](mailto:vomackaa@ff.cuni.cz)) - Department of Sociology, Faculty of Arts, Charles University

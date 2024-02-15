@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Applied Regression in R"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Syllabus
+      - href: completion-requirements.qmd
+        text: Completion Requirements
+      - text: Materials
+        menu:
+          - href: final-homework.qmd
+            text: Final Homework
+          - href: literature.qmd
+            text: Literature
+          - href: data.qmd
+            text: Data
+  page-footer:
+    left: '<a href= "https://ksoc.ff.cuni.cz/"><img src="/media/ksoc-logo.svg" width="224" height="80" /></a>'
+    
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+
+editor: visual
+

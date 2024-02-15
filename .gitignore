@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/.quarto/
+renv/*
+!renv/activate.R
+.DS_Store
