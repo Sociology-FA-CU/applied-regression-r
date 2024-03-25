@@ -24,7 +24,7 @@ countries <- read.csv("https://github.com/Sociology-FA-CU/applied-regression-r/r
 Alternatively, you can download the data from GitHubt in [rds](https://github.com/Sociology-FA-CU/applied-regression-r/raw/main/data/countries.rds) or [csv](https://github.com/Sociology-FA-CU/applied-regression-r/raw/main/data/countries.csv) formats.
 
 | Variable        | Label                                                             | Source                |
-|:---------------|:----------------------------------------|:---------------|
+|:----------------|:------------------------------------------------------------------|:----------------------|
 | country         | Country name                                                      |                       |
 | code            | Two digit coutry code                                             |                       |
 | gdp             | GDP in the milions of EUR (2018)                                  | Eurostat              |
