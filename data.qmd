@@ -106,3 +106,24 @@ teachers <- readr::read_csv("https://github.com/Sociology-FA-CU/applied-regressi
 ```
 
 </details>
+
+<details>
+
+<summary class="item">
+
+**House Prices in Ames, Iowa (**De Cock, 2011))
+
+</summary>
+
+A data set from [De Cock (2011)](https://jse.amstat.org/v19n3/decock.pdf) has 82 fields were recorded for 2,930 properties in Ames IA. This version is from `tidymodels package`, which in turn copies from the `AmesHousing` package but does not include a few quality columns that appear to be outcomes rather than predictors. Variable description can be found [here](https://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
+
+```{r}
+#| eval: false
+
+ames <- readr::read_rds("https://github.com/Sociology-FA-CU/applied-regression-r/raw/main/data/ames.rds")
+#OR
+ames <- readr::read_csv("https://raw.githubusercontent.com/Sociology-FA-CU/applied-regression-r/main/data/ames.csv")
+
+```
+
+</details>
