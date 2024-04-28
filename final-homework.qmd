@@ -15,7 +15,7 @@ Your goal is to answer the following question:
 The data can be downloaded using the following code:
 
 ```         
-polls =  read.csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/pollster-ratings/raw-polls.csv")
+polls =  read.csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/pollster-ratings/raw_polls.csv")
 polls =  subset(polls, methodology ==  c("IVR", "Live Phone", "Online"))
 ```
 
