@@ -145,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
 <p><em>Do polls with different data gathering methods (variable&nbsp;<strong>methodology</strong>`) differ in their accuracy (variable&nbsp;<strong>error</strong>)? If so, how?</em></p>
 <p>The data can be downloaded using the following code:</p>
 <pre><code>polls =  read.csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/pollster-ratings/raw_polls.csv")
-polls =  subset(polls, methodology ==  c("IVR", "Live Phone", "Online"))</code></pre>
+polls =  subset(polls, methodology %in% c("IVR", "Live Phone", "Online Panel"))</code></pre>
 <p>(To make our job easier, we will only work with three types of methodology. For a small, inconsequential bonus, you can look into the full data set and think about why I selected only these three.)</p>
 <p>Description of the data set is available here:&nbsp;<a href="https://github.com/fivethirtyeight/data/tree/master/pollster-ratings" class="uri">https://github.com/fivethirtyeight/data/tree/master/pollster-ratings</a></p>
 <p>For context and inspiration, you may read FiveThirtyEight’s article&nbsp;<a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/">The Death Of Polling Is Greatly Exaggerated</a>.</p>
