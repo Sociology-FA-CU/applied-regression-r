@@ -1,6 +1,6 @@
 ### Cheat sheet
 
-You can download cheat sheet with most important functions here.
+You can download cheat sheet with most important functions [here](https://github.com/Sociology-FA-CU/applied-regression-r/raw/main/media/regression-cheatsheet.pdf).
 
 ### **Primary literature**
 
