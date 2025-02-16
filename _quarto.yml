@@ -18,6 +18,8 @@ website:
             text: Literature
           - href: data.qmd
             text: Data
+      - href: cheatsheets.qmd
+        text: Cheatsheets
   page-footer:
     left: '<a href= "https://ksoc.ff.cuni.cz/"><img src="/media/ksoc-logo.svg" width="224" height="80" /></a>'
     

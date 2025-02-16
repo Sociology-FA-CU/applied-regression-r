@@ -1,0 +1,3 @@
+Here you can find cheatsheets for the course.
+
+Main overview ([link](https://github.com/Sociology-FA-CU/applied-regression-r/blob/main/media/Applied%20Regression%20in%20R%20-%20cheatsheet.pdf)) - Overview for the majority of course content.
