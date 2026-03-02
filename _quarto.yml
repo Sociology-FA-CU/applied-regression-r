@@ -10,6 +10,18 @@ website:
         text: Syllabus
       - href: completion-requirements.qmd
         text: Completion Requirements
+      - text: Slides
+        menu:
+          - href: media/00-intro.pdf
+            text: Introduction
+          - href: media/01-simple-regression.pdf
+            text: Simple Regression
+          - href: media/02-multiple-regression.pdf
+            text: Multiple Regression
+          - href: media/03-interpretation.pdf
+            text: Interpretation
+          - href: media/04-uncertainty.pdf
+            text: Uncertainty
       - text: Materials
         menu:
           - href: final-homework.qmd

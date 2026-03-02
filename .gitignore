@@ -6,3 +6,5 @@
 renv/*
 !renv/activate.R
 .DS_Store
+
+**/*.quarto_ipynb
