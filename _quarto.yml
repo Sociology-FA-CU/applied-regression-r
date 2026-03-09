@@ -22,6 +22,10 @@ website:
             text: Interpretation
           - href: media/04-uncertainty.pdf
             text: Uncertainty
+          - href: media/05-hypothesis-testing.pdf
+            text: Hypothesis Testing
+          - href: media/06-model-fit.pdf
+            text: Model Fit
       - text: Materials
         menu:
           - href: final-homework.qmd
