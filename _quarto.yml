@@ -26,6 +26,8 @@ website:
             text: Hypothesis Testing
           - href: media/06-model-fit.pdf
             text: Model Fit
+          - href: media/07-modeling-goals.pdf
+            text: DAGs
       - text: Materials
         menu:
           - href: final-homework.qmd
