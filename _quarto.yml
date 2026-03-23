@@ -28,6 +28,8 @@ website:
             text: Model Fit
           - href: media/07-modeling-goals.pdf
             text: DAGs
+          - href: media/08-assumptions.pdf
+            text: Model Assumptions
       - text: Materials
         menu:
           - href: final-homework.qmd
