@@ -30,6 +30,8 @@ website:
             text: DAGs
           - href: media/08-assumptions.pdf
             text: Model Assumptions
+          - href: media/09-linearity.pdf
+            text:  (Non)linearity
       - text: Materials
         menu:
           - href: final-homework.qmd
