@@ -32,6 +32,8 @@ website:
             text: Model Assumptions
           - href: media/09-linearity.pdf
             text:  (Non)linearity
+          - href: media/10-homoskedasticity-independence.pdf
+            text: Homoskedasticity, Independence, Normality
       - text: Materials
         menu:
           - href: final-homework.qmd
